@@ -72,3 +72,6 @@ Defines how characters deal damage to opponents.
    - Melee physical attack
    - High damage at close range
    - Requires positioning near the target
+
+Below is the **UML Class Diagram** for this project:
+![UML Diagram](UML-Diagram.png)
